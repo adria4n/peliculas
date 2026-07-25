@@ -11,7 +11,7 @@ peliculas = {}
 
 i = 0
 while i < len(lineas):
-    linea = lineas[i]
+    linea = lineas[i].strip()
 
     if linea.startswith("#EXTINF"):
         info = linea
@@ -20,24 +20,24 @@ while i < len(lineas):
         j = i + 1
         while j < len(lineas):
             if lineas[j].startswith("http"):
-                url = lineas[j].strip()
+                url = lineas[j].strip().split("#EXTGRP:")[0]
                 break
             j += 1
 
         logo = re.search(r'tvg-logo="([^"]+)"', info)
         audio = re.search(r'audio-track="([^"]+)"', info)
 
-        nombre = info.split(",")[-1].strip()
+        nombre = info.split(",", 1)[1].strip()
 
         if "|" in nombre:
-            anio, titulo = nombre.split("|", 1)
+            ano, titulo = nombre.split("|", 1)
         else:
-            anio = ""
+            ano = ""
             titulo = nombre
 
         pelicula = {
             "titulo": titulo.strip(),
-            "anio": anio.strip(),
+            "ano": ano.strip(),
             "logo": logo.group(1) if logo else "",
             "url": url,
             "audio": audio.group(1).lower() if audio else ""
@@ -57,11 +57,17 @@ while i < len(lineas):
 
 resultado = []
 
-for p in peliculas.values():
-    p.pop("audio", None)
-    resultado.append(p)
+for pelicula in peliculas.values():
+    pelicula.pop("audio", None)
+    resultado.append(pelicula)
 
-resultado.sort(key=lambda x: x["titulo"])
+resultado.sort(
+    key=lambda x: (
+        int(x["ano"]) if x["ano"].isdigit() else 0,
+        x["titulo"].lower()
+    ),
+    reverse=True
+)
 
 with open("peliculas.json", "w", encoding="utf-8") as f:
     json.dump(resultado, f, ensure_ascii=False, indent=2)
