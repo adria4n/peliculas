@@ -162,10 +162,22 @@
     "url": "https://69t.btv.mx/69T/NENA/MOV/SUB2026/Vibeland%20Chronicles%20-%202026SUB.mp4"
   },
   {
+    "titulo": "VENGANZA SUB",
+    "ano": "2026",
+    "logo": "https://btv.mx/posters/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg",
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Venganza%20(2026)SUB%20(1).mkv"
+  },
+  {
+    "titulo": "VENGANZA LAT",
+    "ano": "2026",
+    "logo": "https://btv.mx/posters/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg",
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Venganza%20(2026)LAT%20(1).mkv"
+  },
+  {
     "titulo": "VENGANZA DUAL",
     "ano": "2026",
     "logo": "https://btv.mx/posters/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg",
-    "url": "https://69t.btv.mx/69T/NENA/MOV/DUAL/Venganza%20(2026)dual.mkv"
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Venganza%20(2026)dual.mkv"
   },
   {
     "titulo": "VENGANZA CAM LAT",
@@ -375,7 +387,13 @@
     "titulo": "THRASH SUB",
     "ano": "2026",
     "logo": "https://btv.mx/posters/osYy4GDE4nr69MGTJxRaZlqU82S.jpg",
-    "url": "https://69t.btv.mx/69T/NENA/MOV/SUB2026/Embestida1080V0S3%20mp4.mp4"
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Embestida%20(2026)SUB%20(1).mkv"
+  },
+  {
+    "titulo": "THRASH DUAL",
+    "ano": "2026",
+    "logo": "https://btv.mx/posters/osYy4GDE4nr69MGTJxRaZlqU82S.jpg",
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Embestida%20(2026)%20DUAL.mkv"
   },
   {
     "titulo": "THOM YORKE LIVE AT SYDNEY OPERA HOUSE  SUB",
@@ -3330,6 +3348,12 @@
     "url": "https://69t.btv.mx/69T/NENA/MOV/CAM/Zona%20GrisHDTS1080L4T%20mp4.mp4"
   },
   {
+    "titulo": "EMBESTIDA LAT",
+    "ano": "2026",
+    "logo": "https://btv.mx/posters/osYy4GDE4nr69MGTJxRaZlqU82S.jpg",
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Embestida%20(2026)%20LAT%20(1).mkv"
+  },
+  {
     "titulo": "EMBESTIDA",
     "ano": "2026",
     "logo": "https://btv.mx/posters/osYy4GDE4nr69MGTJxRaZlqU82S.jpg",
@@ -4362,10 +4386,22 @@
     "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/23%20000%20vidas%20(2026)%20DUAL.mkv"
   },
   {
+    "titulo": "180 SUB",
+    "ano": "2026",
+    "logo": "https://btv.mx/posters/4nNuv41aosADsoQYYJDg7Y829YK.jpg",
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/180%20(2026)%20SUB%20(1).mkv"
+  },
+  {
+    "titulo": "180 LAT",
+    "ano": "2026",
+    "logo": "https://btv.mx/posters/4nNuv41aosADsoQYYJDg7Y829YK.jpg",
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/180%20(2026)%20LAT(2)%20(1).mkv"
+  },
+  {
     "titulo": "180 DUAL",
     "ano": "2026",
-    "logo": "https://btv.mx/posters/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
-    "url": "https://69t.btv.mx/69T/NENA/MOV/DUAL/180%20(2026)%20DUAL.mkv"
+    "logo": "https://btv.mx/posters/4nNuv41aosADsoQYYJDg7Y829YK.jpg",
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/180%20(2026)%20DUAL%20(2).mkv"
   },
   {
     "titulo": "18 ROSAS",
@@ -5420,8 +5456,14 @@
   {
     "titulo": "THE SHADOWS EDGE SUB",
     "ano": "2025",
-    "logo": "https://btv.mx/posters/o25Tk1FYQi2BLk0OEAvx2h69QvB.jpg",
-    "url": "https://69t.btv.mx/69T/NANE/MOV/SUB/2025/The.Shadows.Edge.2025.WEB-DLRip.1080.mkv"
+    "logo": "https://btv.mx/posters/ftBCLqEhDvgKRcux0fk5TriVhMD.jpg",
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Operaci%C3%B3n%20Sombra%20(2025)%20ORI%20(1).mkv"
+  },
+  {
+    "titulo": "THE SHADOWS EDGE DUAL",
+    "ano": "2025",
+    "logo": "https://btv.mx/posters/ftBCLqEhDvgKRcux0fk5TriVhMD.jpg",
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Operaci%C3%B3n%20Sombra%20(2025)%20DUAL.mkv"
   },
   {
     "titulo": "THE SHADOWS EDGE CAM LAT",
@@ -7112,8 +7154,14 @@
   {
     "titulo": "PRIMITIVE WAR SUB",
     "ano": "2025",
-    "logo": "https://btv.mx/posters/aJc0Ej0mAIpNPoQh46oOnUQCqxE.jpg",
-    "url": "https://69t.btv.mx/69T/NANE/MOV/SUB/2025/Primitive%20War%202025%201080V0S3%20mp4.mp4"
+    "logo": "https://btv.mx/posters/bRVo9KLSJjfIHCjMTMjpnrblGre.jpg",
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Emboscada%20salvaje%20(2025)SUB%20(1).mkv"
+  },
+  {
+    "titulo": "PRIMITIVE WAR DUAL",
+    "ano": "2025",
+    "logo": "https://btv.mx/posters/bRVo9KLSJjfIHCjMTMjpnrblGre.jpg",
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Emboscada%20salvaje%20(2025)%20DUAL.mkv"
   },
   {
     "titulo": "PRIMITIVE WAR CAM LAT",
@@ -7368,12 +7416,6 @@
     "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2025/Ver%20Patrulla%20aterrizaje%20protocolo%20bola%20nieveL4T%20mp4.mp4"
   },
   {
-    "titulo": "PATERNAL LEAVE SUB",
-    "ano": "2025",
-    "logo": "https://btv.mx/posters/4zEzivNNh0FhKkHjEtohmMuIe51.jpg",
-    "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2025/Ver%20Baja%20Pat3rn1dad%20m1080V0S3%20mp4.mp4"
-  },
-  {
     "titulo": "PARTO MALDITO LAT",
     "ano": "2025",
     "logo": "https://btv.mx/posters/crKwaK7mqHOOfcmaUEPiw87acit.jpg",
@@ -7468,6 +7510,12 @@
     "ano": "2025",
     "logo": "https://btv.mx/posters/qS3UNEPpomerbjJZKdAf33X38Kc.jpg",
     "url": "https://69t.btv.mx/69T/NENA/MOV/LAT2026/13%20Days%2013%20Nights%20(Latino)%20-%202025.mp4"
+  },
+  {
+    "titulo": "OPERACION SOMBRA LAT",
+    "ano": "2025",
+    "logo": "https://btv.mx/posters/ftBCLqEhDvgKRcux0fk5TriVhMD.jpg",
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Operaci%C3%B3n%20Sombra%20(2025)%20LAT%20(1).mkv"
   },
   {
     "titulo": "ONLY ON EARTH SUB",
@@ -8584,12 +8632,6 @@
     "ano": "2025",
     "logo": "https://btv.mx/posters/VZq0UExqBbST1LDYWJYsZ0qvMO.jpg",
     "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVCAM/Ver%20luccas%20world%202025%20lat%201080p%20mp4.mp4"
-  },
-  {
-    "titulo": "LOS DOMINGO",
-    "ano": "2025",
-    "logo": "https://btv.mx/posters/1K5HtixJ9O6gqmK61shhnMO4VSy.jpg",
-    "url": "https://69t.btv.mx/69T/NANE/MOV/LAT/2025/LosDomingo2025.mp4"
   },
   {
     "titulo": "LOS DESENREDOS DEL AMOR SUB",
@@ -10686,6 +10728,12 @@
     "url": "https://69t.btv.mx/69T/NENA/MOV/LAT2026/Ver%20Emergency%20Exit%202025%20mp4.mp4"
   },
   {
+    "titulo": "EMBOSCADA SALVAJE LAT",
+    "ano": "2025",
+    "logo": "https://btv.mx/posters/bRVo9KLSJjfIHCjMTMjpnrblGre.jpg",
+    "url": "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Emboscada%20salvaje%20(2025)LAT%20(1).mkv"
+  },
+  {
     "titulo": "EMANUELLES WORLD INTRIGUE IN MANILA SUB",
     "ano": "2025",
     "logo": "https://btv.mx/posters/t80jIwMHhAYAUh8dDgBaanS0y20.jpg",
@@ -12630,12 +12678,6 @@
     "url": "https://69t.btv.mx/69T/NANE/MOV/SUB/2025/Angel%20and%20Demon%20-%202025.mp4"
   },
   {
-    "titulo": "ANEMONA SUB",
-    "ano": "2025",
-    "logo": "https://btv.mx/posters/mb7yTypzkmM8sWrgi5Dr3kl9Jcx.jpg",
-    "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2025/Ver%20Anemone%202025%201080V0S3%20mp4.mp4"
-  },
-  {
     "titulo": "ANDREA BOCELLI BECAUSE BELIEVE",
     "ano": "2025",
     "logo": "https://btv.mx/posters/p3v2pcGR4Sbep17pqQB9cpY2tZY.jpg",
@@ -13684,12 +13726,6 @@
     "ano": "2024",
     "logo": "https://btv.mx/posters/yPNumPkIkv9lm51qpffVJEhtlC7.jpg",
     "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2024/The.Ministry.of.Ungentlemanly.Warfare.2024.BRRIP.1080P.LMHD.mp4"
-  },
-  {
-    "titulo": "THE MERRY GENTLEMEN LAT",
-    "ano": "2024",
-    "logo": "https://btv.mx/posters/AlbOgFcYvqq0fDMoqrQp9AZNrFl.jpg",
-    "url": "https://upv7.btv.mx/up/NANEFULL/The%20Merry%20Gentlemen%20(Latino).mp4"
   },
   {
     "titulo": "THE LORD OF THE RINGS THE WAR OF THE ROHIRRIM DUAL V3 Y ROKU",
@@ -15456,12 +15492,6 @@
     "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2024/JennILapel%C3%ADcula.mp4"
   },
   {
-    "titulo": "JAKE PAUL VS. MIKE TYSON",
-    "ano": "2024",
-    "logo": "https://btv.mx/posters/dZqlRhJBcuHNQgoxC8phKgWC6W8.jpg",
-    "url": "https://upv7.btv.mx/up/NANECAM/Jake%20Paul%20vs.%20Mike%20Tyson.mp4"
-  },
-  {
     "titulo": "JAILBREAK LOVE ON THE RUN LAT",
     "ano": "2024",
     "logo": "https://btv.mx/posters/whIxfBH092Tjq4FbIiSbsWQtq5Z.jpg",
@@ -15810,12 +15840,6 @@
     "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2025/Guadalupe%20Madre%20de%20la%20Humanidad%20(2024).mp4"
   },
   {
-    "titulo": "GTMAX LAT",
-    "ano": "2024",
-    "logo": "https://btv.mx/posters/qrWTjqbf4gzT8BkWqB7VceWJXVU.jpg",
-    "url": "https://upv7.btv.mx/up/NANEFULL/GTMAX.mp4"
-  },
-  {
     "titulo": "GREEDY PEOPLE DUAL V3 Y ROKU",
     "ano": "2024",
     "logo": "https://btv.mx/posters/m1qftDrvCijrLssHSHegbbdWAM0.jpg",
@@ -16158,12 +16182,6 @@
     "url": "https://upv7.btv.mx/up/NANEFULL/Ver%20Empire%20Waist%20720%20mp4.mp4"
   },
   {
-    "titulo": "EMILIA PEREZ",
-    "ano": "2024",
-    "logo": "https://btv.mx/posters/Al1cL3oPBgnmzm0EqIRcOT6JHFg.jpg",
-    "url": "https://upv7.btv.mx/up/NANEFULL/Emilia%20P%C3%A9rez.mp4"
-  },
-  {
     "titulo": "ELYAS SUB",
     "ano": "2024",
     "logo": "https://btv.mx/posters/yDeTQU7Sb3Tc7GQOAKZgthJXW5j.jpg",
@@ -16342,12 +16360,6 @@
     "ano": "2024",
     "logo": "https://btv.mx/posters/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg",
     "url": "https://69t.btv.mx/69T/32T/MOVLAT2024/Dune2.mp4"
-  },
-  {
-    "titulo": "DRIVE BACK HOME SUB",
-    "ano": "2024",
-    "logo": "https://btv.mx/posters/a8IF63PoJeTbl7cjKSpCMgLKCAK.jpg",
-    "url": "https://69t.btv.mx/69T/NANE/MOV/SUB/2025/DriveBackHomSUB2024.mp4"
   },
   {
     "titulo": "DRIVE AWAY DOLLS LAT",
@@ -22092,12 +22104,6 @@
     "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVSUB/Ver%20borat%20subsequent%20moviefilm%202020%20vose%201080p%20mp4.mp4"
   },
   {
-    "titulo": "BOOKS OF BLOOD DUAL",
-    "ano": "2020",
-    "logo": "https://btv.mx/posters/vPZLR0duRDS27mOVFGoTYkH4MYx.jpg",
-    "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/23/books_of_blood_2020.mkv"
-  },
-  {
     "titulo": "BODY CAM DUAL",
     "ano": "2020",
     "logo": "https://btv.mx/posters/rlNSEtGULPBFBy9OGKW9rEUS7aq.jpg",
@@ -22108,18 +22114,6 @@
     "ano": "2020",
     "logo": "https://btv.mx/posters/nAbcETW46ysCkcXfd9fN0584aue.jpg",
     "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/22/bobbleheads_the_movie_2020.mkv"
-  },
-  {
-    "titulo": "BLOODSHOT DUAL",
-    "ano": "2020",
-    "logo": "https://btv.mx/posters/b0Sokh7DazDAxGOpt0ln9soTTET.jpg",
-    "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/23/bloodshot_2020.mkv"
-  },
-  {
-    "titulo": "BLACK BOX DUAL",
-    "ano": "2020",
-    "logo": "https://btv.mx/posters/kSxot0vVOmLsviEdSml1izyiC4g.jpg",
-    "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/23/black_box_2020.mkv"
   },
   {
     "titulo": "BEN 10 VS THE UNIVERSE THE MOVIE DUAL",
@@ -25810,12 +25804,6 @@
     "ano": "2017",
     "logo": "https://btv.mx/posters/hsOIbxeBdoSC3BrpIqbukHMQx6A.jpg",
     "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/26/el_angel_en_el_reloj_2017.mkv"
-  },
-  {
-    "titulo": "THE ADVENTURERS DUAL",
-    "ano": "2017",
-    "logo": "https://btv.mx/posters/v11jDGYUsgzDAzgdoZC5QoPmfZr.jpg",
-    "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/25/the_adventurers_2017.mkv"
   },
   {
     "titulo": "THE 4TH COMPANY DUAL",
@@ -30186,12 +30174,6 @@
     "url": "https://69t.btv.mx/69T/32T/ENG-MOVIE/PEL/Peliculasa2022/P3L1CUL4S/The%20Salvation%20%282014%29.mp4"
   },
   {
-    "titulo": "THE ROVER DUAL",
-    "ano": "2014",
-    "logo": "https://btv.mx/posters/734OOkr69mt8lyPk8iw3TwgQ90R.jpg",
-    "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/25/the_rover_2014.mkv"
-  },
-  {
     "titulo": "THE ROVER",
     "ano": "2014",
     "logo": "https://btv.mx/posters/734OOkr69mt8lyPk8iw3TwgQ90R.jpg",
@@ -31482,12 +31464,6 @@
     "url": "https://69t.btv.mx/69T/32T/ENG-MOVIE/PEL/Peliculasa2022/P3L1CUL4S/El%20quinto%20poder%20%282013%29.mp4"
   },
   {
-    "titulo": "THE DEADLY GAME ALL THINGS TO ALL MEN DUAL",
-    "ano": "2013",
-    "logo": "https://btv.mx/posters/mhoyN8iU226o2UfvG0sThrwpi7i.jpg",
-    "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/25/the_deadly_game_2013-all_things_to_all_men_2013.mkv"
-  },
-  {
     "titulo": "THE CONJURING DUAL V3 Y ROKU",
     "ano": "2013",
     "logo": "https://btv.mx/posters/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg",
@@ -32430,12 +32406,6 @@
     "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/PEDIDOS/Ver%20Hidden%20Face%20pelicula%20online%20sub%20espa%C3%B1ol.mp4"
   },
   {
-    "titulo": "THE GREEN HORNET DUAL",
-    "ano": "2011",
-    "logo": "https://btv.mx/posters/jN5ZCKjy7NjSc1K78YnV6ejdJw2.jpg",
-    "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/25/the_green_hornet_2011.mkv"
-  },
-  {
     "titulo": "THE CALLER DUAL",
     "ano": "2011",
     "logo": "https://btv.mx/posters/uO7yMRrHo1ruBa291b0pKhifqUx.jpg",
@@ -33010,12 +32980,6 @@
     "ano": "2010",
     "logo": "https://btv.mx/posters/gDKiS3ZwzSKiPsn4JsB9EeKz8rA.jpg",
     "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/13/legends_of_flight_2010.mkv"
-  },
-  {
-    "titulo": "LA HORDE",
-    "ano": "2010",
-    "logo": "https://btv.mx/posters/hjrehMikJ4UdHx4RvhK6WVU0l8Q.jpg",
-    "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2025/Watch%20horda%202010%20esp%20mp4.mp4"
   },
   {
     "titulo": "KNIGHT AND DAY DUAL",
@@ -34228,12 +34192,6 @@
     "ano": "2007",
     "logo": "https://btv.mx/posters/bBgc1F5o6PMOxTPrOoZ3oIkP2KT.jpg",
     "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/29/the_bucket_list_2007.mkv"
-  },
-  {
-    "titulo": "THE BRAVE ONE DUAL",
-    "ano": "2007",
-    "logo": "https://btv.mx/posters/ynDEXCJbFeaMc0opJQDuzJCV3vF.jpg",
-    "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/25/the_brave_one_2007.mkv"
   },
   {
     "titulo": "THE ASSASSINATION OF JESSE JAMES DUAL V3 Y ROKU",
@@ -35860,12 +35818,6 @@
     "ano": "2003",
     "logo": "https://btv.mx/posters/fvWcHU44Kn7L1Ve64ye2WQWA2tf.jpg",
     "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2025/dogvilleSUB2003.mp4"
-  },
-  {
-    "titulo": "DARKNESS FALLS",
-    "ano": "2003",
-    "logo": "https://btv.mx/posters/y8fm5UlsOVq8nzlf624KzwuUWly.jpg",
-    "url": "https://nvmevod.btv.mx/132T/NANEGOBACK/PEDIDOS/Darkness%20Falls%20(Lat)%20%20(2003).mp4"
   },
   {
     "titulo": "DAREDEVIL DUAL",
